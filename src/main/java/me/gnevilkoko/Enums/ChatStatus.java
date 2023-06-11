@@ -1,0 +1,5 @@
+package me.gnevilkoko.Enums;
+
+public enum ChatStatus {
+    NONE, ENTERING_SHOP_NAME, ENTERING_BUY_LIST, ENTERING_DISCOUNT, ENTERING_PRODUCT_PRICE, MAKE_OPINION
+}
